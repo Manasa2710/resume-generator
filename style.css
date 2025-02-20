@@ -1,6 +1,13 @@
 /* #resume-form{
     display: none;
 } */
+body {
+    background-image: url('./resumebg.avif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
 
 #resume-template{
     display: none;
